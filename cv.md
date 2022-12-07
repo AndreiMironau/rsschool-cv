@@ -29,7 +29,8 @@ function multiply(a, b) {
 ```
 ### Experiences :
 * **VMG Industry**  
-2019 - ..... | Supply specialist
+2019 - ..... | Supply specialist  
+
 ### Education :
 * **Belarusian-Russian University**  
 2006 - 2012 | Information Technologies Engineer
