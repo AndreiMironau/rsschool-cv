@@ -11,14 +11,14 @@
 ### About me :
 I start my way in the world of IT technologies. I'd like to plunge into the field of Frontend development, get new experience and be usefull. I do all my best to develop my skills and get a piece of expirience. I'm looking for my first job on IT now.
 ### Skills :
-* :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle: **|** **Jira**
-* :large_blue_circle: :large_blue_circle: :white_circle: :white_circle: :white_circle: **|** **Trello**
-* :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle: **|** **GitHub**
-* :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle: **|** **DevTools**
-* :large_blue_circle: :large_blue_circle: :white_circle: :white_circle: :white_circle: **|** **HTML**
-* :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle: **|** **CSS**
-* :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle: **|** **Java**
-* :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle: **|** **Intellij IDEA**
+    Jira (basic)
+    Trello (middle)
+    GitHub (basic)
+    DevTools (middle)
+    HTML (middle)
+    CSS (basic)
+    Java (basic)
+    Intellij IDEA (basic)
 ### Code example :
 ```
 function multiply(a, b) {
@@ -45,8 +45,8 @@ function multiply(a, b) {
 [4]: https://drive.google.com/file/d/1GoQZskeCCnUDd1Zpu7QZylmOkvr_LYFz/view?usp=share_link        "Mella Rossa"
 
 ### Languages :
-* Russian | Native language
-* English | A2-B1
+* Russian \| Native language
+* English \| A2-B1
     * Reading - Pre-Intermediate
     * Writing - Pre-Intermediate  
     * Speaking - Elementary  
