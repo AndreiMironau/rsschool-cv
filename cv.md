@@ -1,6 +1,7 @@
 # Andrei Mironau | Junior Frontend Developer
 
 ### Contact information :
+* Andersen (@AndreiMironau)
 * \+ 375 44 \*\*\*-\*\*-86
 * mistersmit1985@gmail.com
 * [Linkedin][1]
@@ -18,7 +19,8 @@ I start my way in the world of IT technologies. I'd like to plunge into the fiel
     HTML (middle)
     CSS (basic)
     Java (basic)
-    Intellij IDEA (basic)
+    Intellij IDEA (basic)  
+    
 ### Code example :
 ```
 function multiply(a, b) {
