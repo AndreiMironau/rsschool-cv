@@ -1,10 +1,32 @@
-.header {
+body {
+  font-family: 'Montserrat', sans-serif;
   display: flex;
-  min-heigth: 100vh;
-  padding: 8px 50px;
-  background-color: #02f;
-  bacsground-image: url("bg.svg");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  flex-direction: column;
+  justify-content: space-between;
+}
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  border: 1px solid red
+}
+
+.main {
+  border: 1px solid red
+}
+
+.footer {
+  border: 1px solid red
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.nav-menu {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
 }
