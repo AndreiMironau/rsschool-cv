@@ -40,7 +40,7 @@ function multiply(a, b) {
 2022 - ..... | Web development for beginners: HTML & CSS  
 2022 - ..... | JavaScript for beginners
 * **Community "RedRover.school"**  
-2022 - ..... | QA Automation (5 stream)  
+2022 | QA Automation (5 stream)  
 2022 - ..... | Frontend (5 stream)
 * **Community "RS School"**  
 2022 - ..... | JavaScript / Frontend. Stage 0 (RU)
